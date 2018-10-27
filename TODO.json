@@ -1,0 +1,94 @@
+{
+    "Lab Section": 13,
+    "Last Modified": 2018-09-12,
+    "OU ID": 113394119,
+    "OU EMAIL": reecereinke@ou.edu,
+    "Tasks": [
+        {
+            "Description": "Implement design based on UML.",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 25,
+        },
+        {
+            "Description": "Actively comment as I code.",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 5,
+        },
+        {
+            "Description": "Create driver class.",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 5,
+        },
+        {
+        	"Description": "Generate getters.",
+        	"Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 25,
+        },
+        {
+        	"Description": "Create Mapdata class.",
+        	"Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 5,
+        },
+        {
+        	"Description": "Fill in createFileName method.",
+        	"Estimated Time (Minutes)": 50,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in parseParamHeader method.",
+        	"Estimated Time (Minutes)": 30,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in paraseFile method.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in calculate method.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in calculate method.",
+        	"Estimated Time (Minutes)": 42,
+            "Actual Time (Minutes)": 30,
+        },
+        {
+        	"Description": "Fill in Statistics methods.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in newerthan method.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 44,
+        },
+        {
+        	"Description": "Fill in sameAs method.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in toString method.",
+        	"Estimated Time (Minutes)": 51,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in getUTCDateTime method.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 44,
+        },
+        {
+        	"Description": "Fill in AbstractObservation method.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 45,
+        },
+        {
+        	"Description": "Fill in toString method.",
+        	"Estimated Time (Minutes)": 44,
+            "Actual Time (Minutes)": 40,
+        },  
+   ]
+}     
+        
